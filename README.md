@@ -1,6 +1,6 @@
 # BSON
 
-[![Swift 3.1](https://img.shields.io/badge/swift-3.1-orange.svg)](https://swift.org)
+[![Swift 4](https://img.shields.io/badge/swift-4-orange.svg)](https://swift.org)
 ![License](https://img.shields.io/github/license/openkitten/mongokitten.svg)
 [![Build Status](https://api.travis-ci.org/OpenKitten/BSON.svg?branch=bson5)](https://travis-ci.org/OpenKitten/BSON)
 
